@@ -6,11 +6,9 @@ Um script em Python para análise rápida de **qualidade de dados** em arquivos 
 
 ## 📁 Project Structure / Estrutura do Projeto
 
-```
 data-quality-check/
 ├── data/
-│   └── exemplo.csv
+│ └── exemplo.csv
 ├── quality_check.py
 ├── README.md
 └── requirements.txt
-```
